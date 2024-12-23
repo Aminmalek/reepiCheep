@@ -1,5 +1,5 @@
 # ReepiCheep: Multithreaded CSV Importer for PostgreSQL
-
+!()[https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yP7nQS9Y0nSrWFFiDWSPMQ.jpeg]
 ReepiCheep is an open-source Python tool designed to efficiently import multiple CSV files in a directory into a PostgreSQL database. It dynamically creates database tables based on CSV file headers and uses multithreading to process large datasets concurrently.
 
 ## Features
